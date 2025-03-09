@@ -1,6 +1,7 @@
 # Marzban Shop
 
 It is a Telegram bot shop powered by aiogram that provides VPN sales via Telegram
+This project is a fork. [Original project]([https://cryptomus.com/](https://github.com/gunsh1p/marzban-shop)).
 
 ## Table of Contents
 
